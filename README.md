@@ -22,24 +22,6 @@ This is a simple **Stone Paper Scissors** game built using **HTML, CSS, and Java
    - **Paper beats Stone**
 4. Your score will be updated based on the outcome.
 
-## How to Run Locally
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/stone-paper-scissors.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd stone-paper-scissors
-   ```
-3. Open `index.html` in a web browser.
-
-## Deployment
-You can also deploy this game using GitHub Pages:
-1. Go to your repository settings.
-2. Scroll down to the **GitHub Pages** section.
-3. Select the branch and folder containing `index.html`.
-4. Your game will be live at `https://your-username.github.io/stone-paper-scissors/`.
-
 ## Contributing
 If you want to contribute:
 - Fork the repository
@@ -47,9 +29,5 @@ If you want to contribute:
 - Make your changes
 - Submit a pull request
 
-## License
-This project is open-source and available under the **MIT License**.
 
----
-Feel free to enhance the project by adding new features like sound effects, better animations, or multiplayer mode!
 
